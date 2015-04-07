@@ -20,7 +20,7 @@
 
   <groupId>quedex.constellation</groupId>
   <artifactId>constellation-parent-analytics</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <packaging>pom</packaging>
 
   <name>Quedex Constellation parent analytics pom</name>
@@ -105,7 +105,7 @@
     <!-- Project-wide version specifications -->
     <cern.colt.version>1.2.0</cern.colt.version>
     <jama.version>1.0.3</jama.version>
-    <finmath.version>1.2.45</finmath.version>
+    <finmath.version>1.2.54</finmath.version>
   </properties>
 
   <repositories>
