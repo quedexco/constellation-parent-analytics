@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-    Copyright 2014 quedex.co.uk
+    Copyright 2014 quedex.co
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -20,16 +20,16 @@
 
   <groupId>quedex.constellation</groupId>
   <artifactId>constellation-parent-analytics</artifactId>
-  <version>1.0.3</version>
+  <version>1.0.4</version>
   <packaging>pom</packaging>
 
   <name>Quedex Constellation parent analytics pom</name>
   <description>Quedex Constellation parent analytics pom</description>
-  <url>https://github.com/bhupendra-bhudia/</url>
+  <url>https://github.com/quedexco/</url>
   <inceptionYear>2014</inceptionYear>
   <organization>
-    <name>quedex.co.uk</name>
-    <url>http://www.quedex.co.uk/</url>
+    <name>quedex.co</name>
+    <url>http://www.quedex.co/</url>
   </organization>
   <licenses>
     <license>
@@ -43,20 +43,20 @@
     <developer>
       <id>bhupendra-bhudia</id>
       <name>Bhupendra Bhudia</name>
-      <email>bhupendra [dot] bhudia [at] quedex [dot] co [dot] uk</email>
+      <email>bhupendra [dot] bhudia [at] quedex [dot] co</email>
     </developer>
   </developers>
 
   <scm>
-    <url>https://github.com/bhupendra-bhudia/constellation-parent-analytics</url>
-    <connection>scm:git:ssh://github.com/bhupendra-bhudia/constellation-parent-analytics.git</connection>
-    <developerConnection>scm:git:git+ssh://git@github.com/bhupendra-bhudia/constellation-parent-analytics.git
+    <url>https://github.com/quedexco/constellation-parent-analytics</url>
+    <connection>scm:git:ssh://github.com/quedexco/constellation-parent-analytics.git</connection>
+    <developerConnection>scm:git:git+ssh://git@github.com/quedexco/constellation-parent-analytics.git
     </developerConnection>
     <tag>HEAD</tag>
   </scm>
   <issueManagement>
     <system>GitHub Issue Management</system>
-    <url>https://github.com/bhupendra-bhudia/${project.artifactId}/issues</url>
+    <url>https://github.com/quedexco/${project.artifactId}/issues</url>
   </issueManagement>
 
   <distributionManagement>
@@ -105,7 +105,7 @@
     <!-- Project-wide version specifications -->
     <cern.colt.version>1.2.0</cern.colt.version>
     <jama.version>1.0.3</jama.version>
-    <finmath.version>1.2.54</finmath.version>
+    <finmath.version>2.0.2</finmath.version>
   </properties>
 
   <repositories>
